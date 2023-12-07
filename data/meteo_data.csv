@@ -1,0 +1,6 @@
+Ville,Temperature_Actuelle,Temperature_Future_Moyenne,Temperature_Future_Basse,Temperature_Future_Haute,Jours_Sans_Pluie_Actuelle,Jours_Sans_Pluie_Future_Moyenne,Jours_Sans_Pluie_Future_Basse,Jours_Sans_Pluie_Future_Haute,Volume_Precipitation_Max_Actuelle,Volume_Precipitation_Max_Future_Moyenne,Volume_Precipitation_Max_Future_Basse,Volume_Precipitation_Max_Future_Haute
+Lyon,25,28,20,32,10,12,8,19,40,55,50,60
+Paris,30,32,25,35,8,10,9,16,50,60,55,65
+Nantes,28,30,22,33,3,11,8,14,45,58,52,63
+Marseille,26,27,18,30,11,13,9,16,55,62,58,68
+Rouen,29,31,23,34,5,12,12,12,48,57,53,61
